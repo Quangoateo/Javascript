@@ -1,0 +1,10 @@
+var d =  new Date();
+var hours = d.getHours();
+console.log(hours);
+var date = d.getDate();
+console.log(date); 
+// var e =  new Date(milliseconds);
+// var f = new Date(dateString);
+// console.log(e);
+// console.log(f);
+// console.log(d);
